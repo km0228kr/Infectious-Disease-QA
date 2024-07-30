@@ -1,6 +1,6 @@
 # Infectious-Disease-QA
 
-1. <p>$\{\{\color{#DD6565}KorQuAD학습코드_1번째학습.ipynb 파일}}$</p>은 라이브러리로 된 KorQuAD 데이터셋을 vanilla KoBERT로 학습시키는 코드임.
+1. ${\textsf{\color{magenta}KorQuAD학습코드_1번째학습.ipynb 파일}}$은 라이브러리로 된 KorQuAD 데이터셋을 vanilla KoBERT로 학습시키는 코드임.
 
 2. train.json, test.json은 질병관리청 감염병포탈에서 추출한 감염병 텍스트로 구축한 감염병 QA 데이터셋임.
 

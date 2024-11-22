@@ -6,7 +6,7 @@
 
 1. ${\textsf{\color{green}KorQuAD학습코드1번째학습.ipynb 파일}}$은 라이브러리로 된 KorQuAD 데이터셋을 vanilla KoBERT로 학습시키는 코드임.
 
-2. train.json, test.json은 질병관리청 감염병포탈에서 추출한 감염병 텍스트로 구축한 감염병 QA 데이터셋임.
+2. train.json, test.json은 질병관리청에서 추출한 텍스트로 구축한 의료 QA 데이터셋임.
 
 3. train.json, test.json 데이터셋을 이용하여 두 번째 학습을 진행해야 함.
 

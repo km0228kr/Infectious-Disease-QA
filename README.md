@@ -1,7 +1,7 @@
 # Infectious-Disease-QA
 
 
-![image](https://github.com/user-attachments/assets/120b7f21-d3a6-491f-bce6-af7d9b9cb20e)
+![image](https://github.com/user-attachments/assets/66250ddf-970b-4063-ae72-71d25401522c)
 
 
 1. ${\textsf{\color{green}KorQuAD학습코드1번째학습.ipynb 파일}}$은 라이브러리로 된 KorQuAD 데이터셋을 vanilla KoBERT로 학습시키는 코드임.

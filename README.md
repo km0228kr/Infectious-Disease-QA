@@ -1,4 +1,4 @@
-# Infectious-Disease-QA
+# Question-Answering System
 
 
 ![image](https://github.com/user-attachments/assets/66250ddf-970b-4063-ae72-71d25401522c)
